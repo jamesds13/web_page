@@ -3,7 +3,7 @@ layout: post
 title:  "Test Post"
 date:   2024-07-29 20:09:45 +1000
 categories: markdown
-excerpt_image: ../assets/markdown-1652897932.png 
+excerpt_image: excerpt_image: https://github.com/jamesds13/web_page/assets/markdown-1652897932.png 
 author: James 
 ---
 
