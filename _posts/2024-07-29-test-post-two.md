@@ -21,4 +21,4 @@ This is some text to see how it wil turn out.
 ![ocean](https://images.hdqwalls.com/download/beautiful-sea-coast-hd-1920x1080.jpg)
 
 
-![marks](https://github.com/jamesds13/web_page/tree/main/assets/mdwn_image.png)
+![marks](../assets/mdwn_image.png)
