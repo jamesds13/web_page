@@ -15,3 +15,7 @@ author: James
 This is some text to see how it wil turn out.
 
 ![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+
+
+
+![ocean](https://images.hdqwalls.com/download/beautiful-sea-coast-hd-1920x1080.jpg)
