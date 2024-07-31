@@ -2,7 +2,7 @@
 layout: post
 title:  "Markdown"
 date:   2024-07-30 22:00:45 +1000
-categories: mdwn
+categories: markdown
 author: James 
 ---
 

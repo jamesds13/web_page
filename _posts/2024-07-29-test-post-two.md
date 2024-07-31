@@ -2,12 +2,12 @@
 layout: post
 title:  Test Post
 date:   2024-07-29 20:09:45 +1000
-categories: markdown, image urls
+categories: markdown image_urls
 excerpt_image: /assets/mdwn_image.png
 author: James 
 ---
 
-![banner]({{site.baseurl}}/assets/mdwn_image.jpg)
+![banner](/assets/mdwn_image.jpg)
 
 
 ## Python Test Page 
