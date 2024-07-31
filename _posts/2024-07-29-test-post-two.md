@@ -14,4 +14,4 @@ author: James
 
 This is some text to see how it wil turn out.
 
-![markdown image](https://github.com/jamesds13/web_page/blob/main/assets/mdwn_image.png)
+![markdown image](https://blog.bit.ai/wp-content/uploads/2017/12/Markdown-FB.png)
