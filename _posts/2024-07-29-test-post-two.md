@@ -7,7 +7,7 @@ excerpt_image: {{site.baseurl}}/blob/main/assets/mdwn_image.png
 author: James 
 ---
 
-![banner]({{site.baseurl}}/blob/main/assets/mdwn_image.png)
+![banner]({{site.baseurl}}/assets/mdwn_image.jpg)
 
 
 ## Python Test Page 
@@ -19,3 +19,6 @@ This is some text to see how it wil turn out.
 
 
 ![ocean](https://images.hdqwalls.com/download/beautiful-sea-coast-hd-1920x1080.jpg)
+
+
+![marks](https://github.com/jamesds13/web_page/blob/main/assets/mdwn_image.png)
