@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Test Post"
+title:  Test Post
 date:   2024-07-29 20:09:45 +1000
-categories: markdown
-excerpt_image: {{site.baseurl}}/blob/main/assets/mdwn_image.png
+categories: markdown, image urls
+excerpt_image: /assets/mdwn_image.png
 author: James 
 ---
 
