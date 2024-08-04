@@ -7,7 +7,7 @@ excerpt_image: /assets/images/mdwn_image.png
 author: James M 
 ---
 
-![banner](/assets/images/mdwn_image.jpg)
+![banner](/assets/images/mdwn_image.png)
 
 
 ## Python Test Page 
