@@ -30,10 +30,14 @@ github_username:  jamesds13
 
 # Build settings
 
-remote_theme: "jeffreytse/jekyll-theme-yat"
+# remote_theme: "jeffreytse/jekyll-theme-yat"
 # theme: jekyll-theme-yat
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-spaceship
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -81,10 +85,3 @@ yat:
 markdown: kramdown
 kramdown:
   input: GFM
-
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-paginate
-  - jekyll-spaceship
