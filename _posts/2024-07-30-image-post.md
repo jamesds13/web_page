@@ -10,4 +10,4 @@ author: James
 
 This is a few lines to see if it will work
 
-excerpt_image: https://github.com/jamesds13/web_page/blob/main/assets/markdown-1652897932.png 
+![Image testing]({{site.baseurl}}/assets/images/banners/home.jpg)
